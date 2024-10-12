@@ -1,0 +1,4 @@
+num-cpu 4
+quantum-cycles 5
+min-ins 1000
+max-ins 2000

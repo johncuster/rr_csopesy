@@ -1,0 +1,309 @@
+10/12/2024 07:12:50 PM, Core: 1, Executing process 3 for 2ms
+Process 3 finished at 10/12/2024 07:12:50 PM
+10/12/2024 07:12:50 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:12:51 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:12:51 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:12:51 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:12:52 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:12:52 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:12:52 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:12:52 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:12:53 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:12:53 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:12:53 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:12:53 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 3 for 28ms
+Process 3 finished at 10/12/2024 07:12:54 PM
+10/12/2024 07:15:26 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:15:27 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:15:27 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:15:27 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:15:28 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:15:28 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:15:28 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:15:28 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:15:29 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:15:29 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:15:29 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:15:29 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:15:30 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:15:30 PM, Core: 2, Executing process 3 for 28ms
+Process 3 finished at 10/12/2024 07:15:30 PM
+10/12/2024 07:15:30 PM, Core: 1, Executing process 3 for 0ms
+Process 3 finished at 10/12/2024 07:15:30 PM
+10/12/2024 07:16:23 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:23 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:23 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:16:24 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:16:24 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:24 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:24 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:16:25 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:16:25 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:16:25 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:25 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:16:26 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:16:26 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 3 for 28ms
+Process 3 finished at 10/12/2024 07:16:26 PM
+10/12/2024 07:20:32 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:20:33 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:20:33 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:20:33 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:20:33 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:20:34 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:20:34 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:20:34 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:20:35 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:20:35 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:20:35 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:20:35 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:20:36 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:20:36 PM, Core: 1, Executing process 3 for 28ms
+Process 3 finished at 10/12/2024 07:20:36 PM
+10/12/2024 07:21:12 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:12 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:21:12 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:12 PM, Core: 2, Executing process 3 for 100ms
+10/12/2024 07:21:13 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:13 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:22 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:22 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:21:23 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:23 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:23 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:21:24 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:24 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:24 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:25 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:25 PM, Core: 1, Executing process 3 for 100ms
+10/12/2024 07:21:25 PM, Core: 4, Executing process 3 for 100ms
+10/12/2024 07:21:25 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:26 PM, Core: 3, Executing process 3 for 100ms
+10/12/2024 07:21:26 PM, Core: 1, Executing process 3 for 28ms
+Process 3 finished at 10/12/2024 07:21:26 PM
+10/12/2024 07:23:58 PM, Core: 1, Executing process 3 for 100ms, Progress: 7.53%
+10/12/2024 07:23:59 PM, Core: 3, Executing process 3 for 100ms, Progress: 15.06%
+10/12/2024 07:23:59 PM, Core: 2, Executing process 3 for 100ms, Progress: 22.59%
+10/12/2024 07:23:59 PM, Core: 4, Executing process 3 for 100ms, Progress: 30.12%
+10/12/2024 07:23:59 PM, Core: 3, Executing process 3 for 100ms, Progress: 37.65%
+10/12/2024 07:24:00 PM, Core: 3, Executing process 3 for 100ms, Progress: 45.18%
+10/12/2024 07:24:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 52.71%
+10/12/2024 07:24:00 PM, Core: 3, Executing process 3 for 100ms, Progress: 60.24%
+10/12/2024 07:24:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 67.77%
+10/12/2024 07:24:01 PM, Core: 4, Executing process 3 for 100ms, Progress: 75.30%
+10/12/2024 07:24:01 PM, Core: 4, Executing process 3 for 100ms, Progress: 82.83%
+10/12/2024 07:24:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 90.36%
+10/12/2024 07:24:02 PM, Core: 2, Executing process 3 for 100ms, Progress: 97.89%
+10/12/2024 07:24:02 PM, Core: 3, Executing process 3 for 28ms, Progress: 100.00%
+Process 3 finished at 10/12/2024 07:24:02 PM
+10/12/2024 07:24:49 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:24:49 PM, Core: 1, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:24:50 PM, Core: 3, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:24:50 PM, Core: 1, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:24:50 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:24:50 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:24:51 PM, Core: 4, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:24:51 PM, Core: 4, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:24:51 PM, Core: 3, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:24:52 PM, Core: 2, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:24:52 PM, Core: 4, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:24:52 PM, Core: 2, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:24:52 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:24:53 PM, Core: 4, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:24:53 PM
+10/12/2024 07:25:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:25:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:25:00 PM, Core: 2, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:25:00 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:25:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:25:01 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:25:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:25:02 PM, Core: 1, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:25:02 PM, Core: 2, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:25:02 PM, Core: 1, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:25:02 PM, Core: 2, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:25:16 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:25:16 PM, Core: 2, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:25:17 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:25:17 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:25:17 PM, Core: 3, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:25:17 PM, Core: 2, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:25:18 PM, Core: 1, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:25:18 PM, Core: 2, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:25:18 PM, Core: 1, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:25:19 PM, Core: 4, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:25:19 PM, Core: 1, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:25:19 PM, Core: 2, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:25:19 PM, Core: 2, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:25:19 PM, Core: 2, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:25:19 PM
+10/12/2024 07:25:34 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:25:35 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:25:35 PM, Core: 3, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:25:35 PM, Core: 4, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:25:35 PM, Core: 3, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:25:36 PM, Core: 2, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:25:36 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:25:36 PM, Core: 4, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:27:02 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:27:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:27:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:27:03 PM, Core: 1, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:27:04 PM, Core: 3, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:27:04 PM, Core: 1, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:27:04 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:27:05 PM, Core: 2, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:27:05 PM, Core: 1, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:27:05 PM, Core: 4, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:27:05 PM, Core: 2, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:27:06 PM, Core: 1, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:27:06 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:27:06 PM, Core: 4, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:27:06 PM
+10/12/2024 07:27:39 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:27:39 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:27:40 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:27:40 PM, Core: 1, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:27:40 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:27:41 PM, Core: 2, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:27:41 PM, Core: 1, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:27:41 PM, Core: 4, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:27:41 PM, Core: 2, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:27:42 PM, Core: 2, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:27:42 PM, Core: 4, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:27:42 PM, Core: 1, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:27:42 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:27:42 PM, Core: 1, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:27:42 PM
+10/12/2024 07:29:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:29:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:29:01 PM, Core: 3, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:29:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:29:02 PM, Core: 4, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:29:02 PM, Core: 2, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:29:02 PM, Core: 3, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:29:02 PM, Core: 3, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:29:03 PM, Core: 3, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:29:03 PM, Core: 2, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:29:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:29:04 PM, Core: 3, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:29:04 PM, Core: 3, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:29:04 PM, Core: 1, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:29:04 PM
+10/12/2024 07:34:57 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:34:57 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:35:52 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:35:52 PM, Core: 3, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:36:11 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:36:12 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:36:12 PM, Core: 2, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:36:12 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:36:13 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:36:13 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:36:13 PM, Core: 3, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:36:13 PM, Core: 2, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:36:14 PM, Core: 1, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:36:14 PM, Core: 3, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:36:14 PM, Core: 2, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:36:14 PM, Core: 2, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:36:15 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:36:15 PM, Core: 3, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:36:15 PM
+10/12/2024 07:37:06 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:37:07 PM, Core: 3, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:37:07 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:37:07 PM, Core: 3, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:37:07 PM, Core: 1, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:37:08 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:37:08 PM, Core: 4, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:37:08 PM, Core: 3, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:37:08 PM, Core: 2, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:37:09 PM, Core: 2, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:37:09 PM, Core: 2, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:37:39 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:37:40 PM, Core: 3, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:37:40 PM, Core: 2, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:37:40 PM, Core: 1, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:37:41 PM, Core: 4, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:37:41 PM, Core: 3, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:37:41 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:37:41 PM, Core: 1, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:37:42 PM, Core: 4, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:37:42 PM, Core: 2, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:37:42 PM, Core: 1, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:37:42 PM, Core: 1, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:37:43 PM, Core: 1, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:37:43 PM, Core: 2, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:37:43 PM
+10/12/2024 07:38:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:38:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:38:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:38:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:38:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:38:02 PM, Core: 1, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:38:02 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:38:02 PM, Core: 3, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:38:02 PM, Core: 4, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:38:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:38:03 PM, Core: 3, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:38:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:38:03 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:38:03 PM, Core: 4, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:38:03 PM
+10/12/2024 07:41:59 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:41:59 PM, Core: 4, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:41:59 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:42:00 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:42:00 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:42:00 PM, Core: 1, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:42:00 PM, Core: 4, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:42:01 PM, Core: 4, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:42:01 PM, Core: 2, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:42:01 PM, Core: 1, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:45:29 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 07:45:29 PM, Core: 2, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 07:45:29 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 07:45:30 PM, Core: 2, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 07:45:30 PM, Core: 3, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 07:45:30 PM, Core: 2, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 07:45:31 PM, Core: 2, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 07:45:31 PM, Core: 1, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 07:45:31 PM, Core: 4, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 07:45:31 PM, Core: 1, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 07:45:32 PM, Core: 1, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 07:45:32 PM, Core: 3, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 07:45:32 PM, Core: 4, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 07:45:32 PM, Core: 3, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 07:45:32 PM
+10/12/2024 10:08:09 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 10:08:09 PM, Core: 2, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 10:08:10 PM, Core: 1, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 10:08:10 PM, Core: 3, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 10:08:10 PM, Core: 1, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 10:08:10 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 10:08:11 PM, Core: 4, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 10:08:11 PM, Core: 4, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 10:08:11 PM, Core: 1, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 10:08:12 PM, Core: 4, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 10:08:12 PM, Core: 1, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 10:08:12 PM, Core: 4, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 10:08:12 PM, Core: 2, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 10:08:12 PM, Core: 4, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 10:08:12 PM
+10/12/2024 10:08:17 PM, Core: 1, Executing process 3 for 100ms, Progress: 100 / 1328
+10/12/2024 10:08:17 PM, Core: 1, Executing process 3 for 100ms, Progress: 200 / 1328
+10/12/2024 10:08:18 PM, Core: 2, Executing process 3 for 100ms, Progress: 300 / 1328
+10/12/2024 10:08:18 PM, Core: 4, Executing process 3 for 100ms, Progress: 400 / 1328
+10/12/2024 10:08:18 PM, Core: 2, Executing process 3 for 100ms, Progress: 500 / 1328
+10/12/2024 10:08:19 PM, Core: 4, Executing process 3 for 100ms, Progress: 600 / 1328
+10/12/2024 10:08:19 PM, Core: 1, Executing process 3 for 100ms, Progress: 700 / 1328
+10/12/2024 10:08:19 PM, Core: 2, Executing process 3 for 100ms, Progress: 800 / 1328
+10/12/2024 10:08:20 PM, Core: 1, Executing process 3 for 100ms, Progress: 900 / 1328
+10/12/2024 10:08:20 PM, Core: 4, Executing process 3 for 100ms, Progress: 1000 / 1328
+10/12/2024 10:08:20 PM, Core: 1, Executing process 3 for 100ms, Progress: 1100 / 1328
+10/12/2024 10:08:20 PM, Core: 2, Executing process 3 for 100ms, Progress: 1200 / 1328
+10/12/2024 10:08:20 PM, Core: 2, Executing process 3 for 100ms, Progress: 1300 / 1328
+10/12/2024 10:08:21 PM, Core: 2, Executing process 3 for 28ms, Progress: 1328 / 1328
+Process 3 finished at 10/12/2024 10:08:21 PM

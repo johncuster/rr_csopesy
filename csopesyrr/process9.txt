@@ -1,0 +1,376 @@
+10/12/2024 07:12:50 PM, Core: 2, Executing process 9 for 8ms
+Process 9 finished at 10/12/2024 07:12:50 PM
+10/12/2024 07:12:51 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:51 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:51 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:51 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:12:52 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:52 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:12:52 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:12:53 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:53 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:53 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:53 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:54 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:55 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:12:55 PM, Core: 3, Executing process 9 for 36ms
+Process 9 finished at 10/12/2024 07:12:55 PM
+10/12/2024 07:15:27 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:15:27 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:15:27 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:28 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:15:28 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:15:28 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:15:28 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:15:29 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:15:29 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:29 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:29 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:15:30 PM, Core: 1, Executing process 9 for 100ms
+Process 9 finished at 10/12/2024 07:15:30 PM
+10/12/2024 07:16:23 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:23 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:23 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:16:24 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:16:24 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:24 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:16:24 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:25 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:16:25 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:16:25 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:25 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:16:25 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:16:26 PM, Core: 1, Executing process 9 for 36ms
+Process 9 finished at 10/12/2024 07:16:26 PM
+10/12/2024 07:20:32 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:33 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:20:33 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:33 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:20:34 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:34 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:34 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:20:34 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:35 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:35 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:35 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:20:35 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 4, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:20:36 PM, Core: 2, Executing process 9 for 36ms
+Process 9 finished at 10/12/2024 07:20:36 PM
+10/12/2024 07:21:12 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:12 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:12 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:13 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:13 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:13 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:22 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:23 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:23 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:23 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:23 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:24 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:24 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:24 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:25 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:25 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:25 PM, Core: 3, Executing process 9 for 100ms
+10/12/2024 07:21:25 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 1, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 100ms
+10/12/2024 07:21:26 PM, Core: 2, Executing process 9 for 36ms
+Process 9 finished at 10/12/2024 07:21:26 PM
+10/12/2024 07:23:59 PM, Core: 1, Executing process 9 for 100ms, Progress: 5.17%
+10/12/2024 07:23:59 PM, Core: 1, Executing process 9 for 100ms, Progress: 10.33%
+10/12/2024 07:23:59 PM, Core: 2, Executing process 9 for 100ms, Progress: 15.50%
+10/12/2024 07:23:59 PM, Core: 3, Executing process 9 for 100ms, Progress: 20.66%
+10/12/2024 07:24:00 PM, Core: 4, Executing process 9 for 100ms, Progress: 25.83%
+10/12/2024 07:24:00 PM, Core: 2, Executing process 9 for 100ms, Progress: 30.99%
+10/12/2024 07:24:00 PM, Core: 4, Executing process 9 for 100ms, Progress: 36.16%
+10/12/2024 07:24:00 PM, Core: 1, Executing process 9 for 100ms, Progress: 41.32%
+10/12/2024 07:24:49 PM, Core: 3, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:24:50 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:24:50 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:24:50 PM, Core: 1, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:24:50 PM, Core: 1, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:24:51 PM, Core: 1, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:24:51 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:24:51 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:24:52 PM, Core: 1, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:24:52 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:24:52 PM, Core: 4, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:24:52 PM, Core: 1, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:24:53 PM, Core: 3, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:24:53 PM, Core: 4, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:24:53 PM, Core: 1, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:24:53 PM
+10/12/2024 07:25:00 PM, Core: 3, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:25:00 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:25:00 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:25:01 PM, Core: 2, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:25:01 PM, Core: 3, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:25:01 PM, Core: 4, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:25:01 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:25:02 PM, Core: 4, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:25:02 PM, Core: 2, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:25:02 PM, Core: 1, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:25:16 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:25:16 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:25:17 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:25:17 PM, Core: 4, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:25:17 PM, Core: 1, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:25:18 PM, Core: 2, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:25:18 PM, Core: 1, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:25:18 PM, Core: 4, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:25:18 PM, Core: 1, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:25:19 PM, Core: 2, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:25:19 PM, Core: 4, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:25:19 PM, Core: 1, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:25:19 PM, Core: 1, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:25:19 PM, Core: 2, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:25:20 PM, Core: 3, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:25:20 PM
+10/12/2024 07:25:34 PM, Core: 3, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:25:35 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:25:35 PM, Core: 1, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:25:35 PM, Core: 3, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:25:35 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:25:36 PM, Core: 3, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:25:36 PM, Core: 3, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:25:36 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:27:03 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:27:03 PM, Core: 1, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:27:03 PM, Core: 4, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:27:03 PM, Core: 2, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:27:04 PM, Core: 1, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:27:04 PM, Core: 3, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:27:04 PM, Core: 3, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:27:04 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:27:05 PM, Core: 2, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:27:05 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:27:05 PM, Core: 1, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:27:06 PM, Core: 4, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:27:06 PM, Core: 1, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:27:06 PM, Core: 1, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:27:06 PM, Core: 2, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:27:06 PM, Core: 3, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:27:06 PM, Core: 3, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:27:07 PM, Core: 3, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:27:07 PM, Core: 3, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:27:07 PM, Core: 3, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:27:07 PM
+10/12/2024 07:27:39 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:27:40 PM, Core: 3, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:27:40 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:27:40 PM, Core: 3, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:27:40 PM, Core: 2, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:27:41 PM, Core: 3, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:27:41 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:27:41 PM, Core: 2, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:27:41 PM, Core: 2, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:27:42 PM, Core: 2, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:27:42 PM, Core: 4, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:27:42 PM, Core: 1, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:27:42 PM, Core: 4, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:27:43 PM, Core: 4, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:27:43 PM, Core: 2, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:27:43 PM
+10/12/2024 07:29:01 PM, Core: 3, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:29:01 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:29:01 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:29:01 PM, Core: 3, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:29:02 PM, Core: 3, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:29:02 PM, Core: 4, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:29:02 PM, Core: 3, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:29:03 PM, Core: 3, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:29:03 PM, Core: 4, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:29:03 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:29:03 PM, Core: 1, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:29:03 PM, Core: 3, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:29:04 PM, Core: 3, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:29:04 PM, Core: 1, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:29:04 PM, Core: 1, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:29:04 PM, Core: 2, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:29:04 PM, Core: 2, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:29:04 PM, Core: 2, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:29:04 PM, Core: 2, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:29:05 PM, Core: 2, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:29:05 PM
+10/12/2024 07:34:57 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:35:52 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:36:12 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:36:12 PM, Core: 1, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:36:12 PM, Core: 4, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:36:12 PM, Core: 2, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:36:13 PM, Core: 2, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:36:13 PM, Core: 2, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:36:13 PM, Core: 3, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:36:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:36:14 PM, Core: 2, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:36:14 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:36:14 PM, Core: 3, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:36:14 PM, Core: 1, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:36:15 PM, Core: 1, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:36:15 PM, Core: 1, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:36:15 PM, Core: 3, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:36:15 PM, Core: 3, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:36:15 PM, Core: 3, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:36:15 PM, Core: 3, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:36:16 PM, Core: 3, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:36:16 PM, Core: 3, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:36:16 PM
+10/12/2024 07:37:06 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:37:07 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:37:07 PM, Core: 4, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:37:07 PM, Core: 4, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:37:08 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:37:08 PM, Core: 1, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:37:08 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:37:08 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:37:09 PM, Core: 4, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:37:09 PM, Core: 1, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:37:40 PM, Core: 1, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:37:40 PM, Core: 1, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:37:40 PM, Core: 3, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:37:40 PM, Core: 1, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:37:40 PM, Core: 3, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:37:41 PM, Core: 3, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:37:41 PM, Core: 1, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:37:41 PM, Core: 4, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:37:41 PM, Core: 4, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:37:42 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:37:42 PM, Core: 1, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:37:42 PM, Core: 1, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:37:42 PM, Core: 1, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:37:43 PM, Core: 4, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:37:43 PM, Core: 1, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:37:43 PM
+10/12/2024 07:38:01 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:38:01 PM, Core: 2, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:38:01 PM, Core: 1, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:38:01 PM, Core: 3, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:38:02 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:38:02 PM, Core: 1, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:41:59 PM, Core: 3, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:41:59 PM, Core: 3, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:41:59 PM, Core: 3, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:42:00 PM, Core: 3, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:42:00 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:42:00 PM, Core: 4, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:42:00 PM, Core: 1, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:42:01 PM, Core: 1, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:42:01 PM, Core: 3, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:45:29 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 07:45:29 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 07:45:29 PM, Core: 3, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 07:45:30 PM, Core: 2, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 07:45:30 PM, Core: 1, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 07:45:30 PM, Core: 4, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 07:45:30 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 07:45:31 PM, Core: 4, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 07:45:31 PM, Core: 1, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 07:45:31 PM, Core: 4, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 07:45:31 PM, Core: 2, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 07:45:32 PM, Core: 2, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 07:45:32 PM, Core: 2, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 07:45:32 PM, Core: 1, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 07:45:33 PM, Core: 1, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 07:45:33 PM
+10/12/2024 10:08:09 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 10:08:10 PM, Core: 4, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 10:08:10 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 10:08:10 PM, Core: 2, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 10:08:10 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 10:08:11 PM, Core: 1, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 10:08:11 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 10:08:11 PM, Core: 2, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 10:08:11 PM, Core: 2, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 10:08:12 PM, Core: 3, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 10:08:12 PM, Core: 4, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 10:08:12 PM, Core: 3, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 10:08:12 PM, Core: 3, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 10:08:13 PM, Core: 3, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 10:08:13 PM, Core: 1, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 10:08:13 PM
+10/12/2024 10:08:17 PM, Core: 2, Executing process 9 for 100ms, Progress: 100 / 1936
+10/12/2024 10:08:18 PM, Core: 1, Executing process 9 for 100ms, Progress: 200 / 1936
+10/12/2024 10:08:18 PM, Core: 2, Executing process 9 for 100ms, Progress: 300 / 1936
+10/12/2024 10:08:18 PM, Core: 4, Executing process 9 for 100ms, Progress: 400 / 1936
+10/12/2024 10:08:18 PM, Core: 4, Executing process 9 for 100ms, Progress: 500 / 1936
+10/12/2024 10:08:19 PM, Core: 1, Executing process 9 for 100ms, Progress: 600 / 1936
+10/12/2024 10:08:19 PM, Core: 2, Executing process 9 for 100ms, Progress: 700 / 1936
+10/12/2024 10:08:19 PM, Core: 4, Executing process 9 for 100ms, Progress: 800 / 1936
+10/12/2024 10:08:20 PM, Core: 3, Executing process 9 for 100ms, Progress: 900 / 1936
+10/12/2024 10:08:20 PM, Core: 2, Executing process 9 for 100ms, Progress: 1000 / 1936
+10/12/2024 10:08:20 PM, Core: 4, Executing process 9 for 100ms, Progress: 1100 / 1936
+10/12/2024 10:08:20 PM, Core: 4, Executing process 9 for 100ms, Progress: 1200 / 1936
+10/12/2024 10:08:20 PM, Core: 4, Executing process 9 for 100ms, Progress: 1300 / 1936
+10/12/2024 10:08:21 PM, Core: 3, Executing process 9 for 100ms, Progress: 1400 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 100ms, Progress: 1500 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 100ms, Progress: 1600 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 100ms, Progress: 1700 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 100ms, Progress: 1800 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 100ms, Progress: 1900 / 1936
+10/12/2024 10:08:21 PM, Core: 4, Executing process 9 for 36ms, Progress: 1936 / 1936
+Process 9 finished at 10/12/2024 10:08:21 PM
